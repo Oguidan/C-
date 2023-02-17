@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Michael\\Documents\\Learning\\C-\\C-.csproj",
-      "projectName": "C-",
-      "projectPath": "C:\\Users\\Michael\\Documents\\Learning\\C-\\C-.csproj",
+      "projectUniqueName": "C:\\Users\\Michael\\Documents\\Learning\\C-\\1 Creating My First C# Program\\1 Creating My First C# Program.csproj",
+      "projectName": "1 Creating My First C# Program",
+      "projectPath": "C:\\Users\\Michael\\Documents\\Learning\\C-\\1 Creating My First C# Program\\1 Creating My First C# Program.csproj",
       "packagesPath": "C:\\Users\\Michael\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Michael\\Documents\\Learning\\C-\\obj\\",
+      "outputPath": "C:\\Users\\Michael\\Documents\\Learning\\C-\\1 Creating My First C# Program\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Michael\\AppData\\Roaming\\NuGet\\NuGet.Config"
