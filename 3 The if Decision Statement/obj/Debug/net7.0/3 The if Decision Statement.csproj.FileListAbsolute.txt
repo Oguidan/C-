@@ -1,0 +1,15 @@
+C:\Users\Michael\Documents\Learning\C-\3 The if Decision Statement\bin\Debug\net7.0\3 The if Decision Statement.exe
+C:\Users\Michael\Documents\Learning\C-\3 The if Decision Statement\bin\Debug\net7.0\3 The if Decision Statement.deps.json
+C:\Users\Michael\Documents\Learning\C-\3 The if Decision Statement\bin\Debug\net7.0\3 The if Decision Statement.runtimeconfig.json
+C:\Users\Michael\Documents\Learning\C-\3 The if Decision Statement\bin\Debug\net7.0\3 The if Decision Statement.dll
+C:\Users\Michael\Documents\Learning\C-\3 The if Decision Statement\bin\Debug\net7.0\3 The if Decision Statement.pdb
+C:\Users\Michael\Documents\Learning\C-\3 The if Decision Statement\obj\Debug\net7.0\3 The if Decision Statement.csproj.AssemblyReference.cache
+C:\Users\Michael\Documents\Learning\C-\3 The if Decision Statement\obj\Debug\net7.0\3 The if Decision Statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\Documents\Learning\C-\3 The if Decision Statement\obj\Debug\net7.0\3 The if Decision Statement.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\Learning\C-\3 The if Decision Statement\obj\Debug\net7.0\3 The if Decision Statement.AssemblyInfo.cs
+C:\Users\Michael\Documents\Learning\C-\3 The if Decision Statement\obj\Debug\net7.0\3 The if Decision Statement.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Learning\C-\3 The if Decision Statement\obj\Debug\net7.0\3 The if Decision Statement.dll
+C:\Users\Michael\Documents\Learning\C-\3 The if Decision Statement\obj\Debug\net7.0\refint\3 The if Decision Statement.dll
+C:\Users\Michael\Documents\Learning\C-\3 The if Decision Statement\obj\Debug\net7.0\3 The if Decision Statement.pdb
+C:\Users\Michael\Documents\Learning\C-\3 The if Decision Statement\obj\Debug\net7.0\3 The if Decision Statement.genruntimeconfig.cache
+C:\Users\Michael\Documents\Learning\C-\3 The if Decision Statement\obj\Debug\net7.0\ref\3 The if Decision Statement.dll
