@@ -1,0 +1,15 @@
+C:\Users\Michael\Documents\Learning\C-\2 Understanding Data Types and Variables\bin\Debug\net7.0\2 Understanding Data Types and Variables.exe
+C:\Users\Michael\Documents\Learning\C-\2 Understanding Data Types and Variables\bin\Debug\net7.0\2 Understanding Data Types and Variables.deps.json
+C:\Users\Michael\Documents\Learning\C-\2 Understanding Data Types and Variables\bin\Debug\net7.0\2 Understanding Data Types and Variables.runtimeconfig.json
+C:\Users\Michael\Documents\Learning\C-\2 Understanding Data Types and Variables\bin\Debug\net7.0\2 Understanding Data Types and Variables.dll
+C:\Users\Michael\Documents\Learning\C-\2 Understanding Data Types and Variables\bin\Debug\net7.0\2 Understanding Data Types and Variables.pdb
+C:\Users\Michael\Documents\Learning\C-\2 Understanding Data Types and Variables\obj\Debug\net7.0\2 Understanding Data Types and Variables.csproj.AssemblyReference.cache
+C:\Users\Michael\Documents\Learning\C-\2 Understanding Data Types and Variables\obj\Debug\net7.0\2 Understanding Data Types and Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\Documents\Learning\C-\2 Understanding Data Types and Variables\obj\Debug\net7.0\2 Understanding Data Types and Variables.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\Learning\C-\2 Understanding Data Types and Variables\obj\Debug\net7.0\2 Understanding Data Types and Variables.AssemblyInfo.cs
+C:\Users\Michael\Documents\Learning\C-\2 Understanding Data Types and Variables\obj\Debug\net7.0\2 Understanding Data Types and Variables.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Learning\C-\2 Understanding Data Types and Variables\obj\Debug\net7.0\2 Understanding Data Types and Variables.dll
+C:\Users\Michael\Documents\Learning\C-\2 Understanding Data Types and Variables\obj\Debug\net7.0\refint\2 Understanding Data Types and Variables.dll
+C:\Users\Michael\Documents\Learning\C-\2 Understanding Data Types and Variables\obj\Debug\net7.0\2 Understanding Data Types and Variables.pdb
+C:\Users\Michael\Documents\Learning\C-\2 Understanding Data Types and Variables\obj\Debug\net7.0\2 Understanding Data Types and Variables.genruntimeconfig.cache
+C:\Users\Michael\Documents\Learning\C-\2 Understanding Data Types and Variables\obj\Debug\net7.0\ref\2 Understanding Data Types and Variables.dll
