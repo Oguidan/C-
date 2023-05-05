@@ -1,0 +1,15 @@
+C:\Users\Michael\Documents\Learning\C-\5 for Iteration Statement\bin\Debug\net7.0\5 for Iteration Statement.exe
+C:\Users\Michael\Documents\Learning\C-\5 for Iteration Statement\bin\Debug\net7.0\5 for Iteration Statement.deps.json
+C:\Users\Michael\Documents\Learning\C-\5 for Iteration Statement\bin\Debug\net7.0\5 for Iteration Statement.runtimeconfig.json
+C:\Users\Michael\Documents\Learning\C-\5 for Iteration Statement\bin\Debug\net7.0\5 for Iteration Statement.dll
+C:\Users\Michael\Documents\Learning\C-\5 for Iteration Statement\bin\Debug\net7.0\5 for Iteration Statement.pdb
+C:\Users\Michael\Documents\Learning\C-\5 for Iteration Statement\obj\Debug\net7.0\5 for Iteration Statement.csproj.AssemblyReference.cache
+C:\Users\Michael\Documents\Learning\C-\5 for Iteration Statement\obj\Debug\net7.0\5 for Iteration Statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\Documents\Learning\C-\5 for Iteration Statement\obj\Debug\net7.0\5 for Iteration Statement.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\Learning\C-\5 for Iteration Statement\obj\Debug\net7.0\5 for Iteration Statement.AssemblyInfo.cs
+C:\Users\Michael\Documents\Learning\C-\5 for Iteration Statement\obj\Debug\net7.0\5 for Iteration Statement.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Learning\C-\5 for Iteration Statement\obj\Debug\net7.0\5 for Iteration Statement.dll
+C:\Users\Michael\Documents\Learning\C-\5 for Iteration Statement\obj\Debug\net7.0\refint\5 for Iteration Statement.dll
+C:\Users\Michael\Documents\Learning\C-\5 for Iteration Statement\obj\Debug\net7.0\5 for Iteration Statement.pdb
+C:\Users\Michael\Documents\Learning\C-\5 for Iteration Statement\obj\Debug\net7.0\5 for Iteration Statement.genruntimeconfig.cache
+C:\Users\Michael\Documents\Learning\C-\5 for Iteration Statement\obj\Debug\net7.0\ref\5 for Iteration Statement.dll
