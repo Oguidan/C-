@@ -1,0 +1,15 @@
+C:\Users\Michael\Documents\Learning\C-\6 Understand Arrays\bin\Debug\net7.0\6 Understand Arrays.exe
+C:\Users\Michael\Documents\Learning\C-\6 Understand Arrays\bin\Debug\net7.0\6 Understand Arrays.deps.json
+C:\Users\Michael\Documents\Learning\C-\6 Understand Arrays\bin\Debug\net7.0\6 Understand Arrays.runtimeconfig.json
+C:\Users\Michael\Documents\Learning\C-\6 Understand Arrays\bin\Debug\net7.0\6 Understand Arrays.dll
+C:\Users\Michael\Documents\Learning\C-\6 Understand Arrays\bin\Debug\net7.0\6 Understand Arrays.pdb
+C:\Users\Michael\Documents\Learning\C-\6 Understand Arrays\obj\Debug\net7.0\6 Understand Arrays.csproj.AssemblyReference.cache
+C:\Users\Michael\Documents\Learning\C-\6 Understand Arrays\obj\Debug\net7.0\6 Understand Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\Documents\Learning\C-\6 Understand Arrays\obj\Debug\net7.0\6 Understand Arrays.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\Learning\C-\6 Understand Arrays\obj\Debug\net7.0\6 Understand Arrays.AssemblyInfo.cs
+C:\Users\Michael\Documents\Learning\C-\6 Understand Arrays\obj\Debug\net7.0\6 Understand Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Learning\C-\6 Understand Arrays\obj\Debug\net7.0\6 Understand Arrays.dll
+C:\Users\Michael\Documents\Learning\C-\6 Understand Arrays\obj\Debug\net7.0\refint\6 Understand Arrays.dll
+C:\Users\Michael\Documents\Learning\C-\6 Understand Arrays\obj\Debug\net7.0\6 Understand Arrays.pdb
+C:\Users\Michael\Documents\Learning\C-\6 Understand Arrays\obj\Debug\net7.0\6 Understand Arrays.genruntimeconfig.cache
+C:\Users\Michael\Documents\Learning\C-\6 Understand Arrays\obj\Debug\net7.0\ref\6 Understand Arrays.dll
