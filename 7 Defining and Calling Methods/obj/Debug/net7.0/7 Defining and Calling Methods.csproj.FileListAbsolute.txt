@@ -1,0 +1,15 @@
+C:\Users\Michael\Documents\Learning\C-\7 Defining and Calling Methods\bin\Debug\net7.0\7 Defining and Calling Methods.exe
+C:\Users\Michael\Documents\Learning\C-\7 Defining and Calling Methods\bin\Debug\net7.0\7 Defining and Calling Methods.deps.json
+C:\Users\Michael\Documents\Learning\C-\7 Defining and Calling Methods\bin\Debug\net7.0\7 Defining and Calling Methods.runtimeconfig.json
+C:\Users\Michael\Documents\Learning\C-\7 Defining and Calling Methods\bin\Debug\net7.0\7 Defining and Calling Methods.dll
+C:\Users\Michael\Documents\Learning\C-\7 Defining and Calling Methods\bin\Debug\net7.0\7 Defining and Calling Methods.pdb
+C:\Users\Michael\Documents\Learning\C-\7 Defining and Calling Methods\obj\Debug\net7.0\7 Defining and Calling Methods.csproj.AssemblyReference.cache
+C:\Users\Michael\Documents\Learning\C-\7 Defining and Calling Methods\obj\Debug\net7.0\7 Defining and Calling Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\Documents\Learning\C-\7 Defining and Calling Methods\obj\Debug\net7.0\7 Defining and Calling Methods.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\Learning\C-\7 Defining and Calling Methods\obj\Debug\net7.0\7 Defining and Calling Methods.AssemblyInfo.cs
+C:\Users\Michael\Documents\Learning\C-\7 Defining and Calling Methods\obj\Debug\net7.0\7 Defining and Calling Methods.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Learning\C-\7 Defining and Calling Methods\obj\Debug\net7.0\7 Defining and Calling Methods.dll
+C:\Users\Michael\Documents\Learning\C-\7 Defining and Calling Methods\obj\Debug\net7.0\refint\7 Defining and Calling Methods.dll
+C:\Users\Michael\Documents\Learning\C-\7 Defining and Calling Methods\obj\Debug\net7.0\7 Defining and Calling Methods.pdb
+C:\Users\Michael\Documents\Learning\C-\7 Defining and Calling Methods\obj\Debug\net7.0\7 Defining and Calling Methods.genruntimeconfig.cache
+C:\Users\Michael\Documents\Learning\C-\7 Defining and Calling Methods\obj\Debug\net7.0\ref\7 Defining and Calling Methods.dll
