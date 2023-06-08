@@ -1,0 +1,15 @@
+C:\Users\Michael\Documents\Learning\C-\8 While Iteration Statement\bin\Debug\net7.0\8 While Iteration Statement.exe
+C:\Users\Michael\Documents\Learning\C-\8 While Iteration Statement\bin\Debug\net7.0\8 While Iteration Statement.deps.json
+C:\Users\Michael\Documents\Learning\C-\8 While Iteration Statement\bin\Debug\net7.0\8 While Iteration Statement.runtimeconfig.json
+C:\Users\Michael\Documents\Learning\C-\8 While Iteration Statement\bin\Debug\net7.0\8 While Iteration Statement.dll
+C:\Users\Michael\Documents\Learning\C-\8 While Iteration Statement\bin\Debug\net7.0\8 While Iteration Statement.pdb
+C:\Users\Michael\Documents\Learning\C-\8 While Iteration Statement\obj\Debug\net7.0\8 While Iteration Statement.csproj.AssemblyReference.cache
+C:\Users\Michael\Documents\Learning\C-\8 While Iteration Statement\obj\Debug\net7.0\8 While Iteration Statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\Documents\Learning\C-\8 While Iteration Statement\obj\Debug\net7.0\8 While Iteration Statement.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\Learning\C-\8 While Iteration Statement\obj\Debug\net7.0\8 While Iteration Statement.AssemblyInfo.cs
+C:\Users\Michael\Documents\Learning\C-\8 While Iteration Statement\obj\Debug\net7.0\8 While Iteration Statement.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Learning\C-\8 While Iteration Statement\obj\Debug\net7.0\8 While Iteration Statement.dll
+C:\Users\Michael\Documents\Learning\C-\8 While Iteration Statement\obj\Debug\net7.0\refint\8 While Iteration Statement.dll
+C:\Users\Michael\Documents\Learning\C-\8 While Iteration Statement\obj\Debug\net7.0\8 While Iteration Statement.pdb
+C:\Users\Michael\Documents\Learning\C-\8 While Iteration Statement\obj\Debug\net7.0\8 While Iteration Statement.genruntimeconfig.cache
+C:\Users\Michael\Documents\Learning\C-\8 While Iteration Statement\obj\Debug\net7.0\ref\8 While Iteration Statement.dll
