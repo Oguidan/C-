@@ -1,0 +1,15 @@
+C:\Users\Michael\Documents\Learning\C-\9 Working with Strings\obj\Debug\net7.0\9 Working with Strings.csproj.AssemblyReference.cache
+C:\Users\Michael\Documents\Learning\C-\9 Working with Strings\obj\Debug\net7.0\9 Working with Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\Documents\Learning\C-\9 Working with Strings\obj\Debug\net7.0\9 Working with Strings.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\Learning\C-\9 Working with Strings\obj\Debug\net7.0\9 Working with Strings.AssemblyInfo.cs
+C:\Users\Michael\Documents\Learning\C-\9 Working with Strings\obj\Debug\net7.0\9 Working with Strings.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Learning\C-\9 Working with Strings\bin\Debug\net7.0\9 Working with Strings.exe
+C:\Users\Michael\Documents\Learning\C-\9 Working with Strings\bin\Debug\net7.0\9 Working with Strings.deps.json
+C:\Users\Michael\Documents\Learning\C-\9 Working with Strings\bin\Debug\net7.0\9 Working with Strings.runtimeconfig.json
+C:\Users\Michael\Documents\Learning\C-\9 Working with Strings\bin\Debug\net7.0\9 Working with Strings.dll
+C:\Users\Michael\Documents\Learning\C-\9 Working with Strings\bin\Debug\net7.0\9 Working with Strings.pdb
+C:\Users\Michael\Documents\Learning\C-\9 Working with Strings\obj\Debug\net7.0\9 Working with Strings.dll
+C:\Users\Michael\Documents\Learning\C-\9 Working with Strings\obj\Debug\net7.0\refint\9 Working with Strings.dll
+C:\Users\Michael\Documents\Learning\C-\9 Working with Strings\obj\Debug\net7.0\9 Working with Strings.pdb
+C:\Users\Michael\Documents\Learning\C-\9 Working with Strings\obj\Debug\net7.0\9 Working with Strings.genruntimeconfig.cache
+C:\Users\Michael\Documents\Learning\C-\9 Working with Strings\obj\Debug\net7.0\ref\9 Working with Strings.dll
