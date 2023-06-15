@@ -1,0 +1,15 @@
+C:\Users\Michael\Documents\Learning\C-\10 Working with Dates and Times\bin\Debug\net7.0\10 Working with Dates and Times.exe
+C:\Users\Michael\Documents\Learning\C-\10 Working with Dates and Times\bin\Debug\net7.0\10 Working with Dates and Times.deps.json
+C:\Users\Michael\Documents\Learning\C-\10 Working with Dates and Times\bin\Debug\net7.0\10 Working with Dates and Times.runtimeconfig.json
+C:\Users\Michael\Documents\Learning\C-\10 Working with Dates and Times\bin\Debug\net7.0\10 Working with Dates and Times.dll
+C:\Users\Michael\Documents\Learning\C-\10 Working with Dates and Times\bin\Debug\net7.0\10 Working with Dates and Times.pdb
+C:\Users\Michael\Documents\Learning\C-\10 Working with Dates and Times\obj\Debug\net7.0\10 Working with Dates and Times.csproj.AssemblyReference.cache
+C:\Users\Michael\Documents\Learning\C-\10 Working with Dates and Times\obj\Debug\net7.0\10 Working with Dates and Times.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\Documents\Learning\C-\10 Working with Dates and Times\obj\Debug\net7.0\10 Working with Dates and Times.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\Learning\C-\10 Working with Dates and Times\obj\Debug\net7.0\10 Working with Dates and Times.AssemblyInfo.cs
+C:\Users\Michael\Documents\Learning\C-\10 Working with Dates and Times\obj\Debug\net7.0\10 Working with Dates and Times.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Learning\C-\10 Working with Dates and Times\obj\Debug\net7.0\10 Working with Dates and Times.dll
+C:\Users\Michael\Documents\Learning\C-\10 Working with Dates and Times\obj\Debug\net7.0\refint\10 Working with Dates and Times.dll
+C:\Users\Michael\Documents\Learning\C-\10 Working with Dates and Times\obj\Debug\net7.0\10 Working with Dates and Times.pdb
+C:\Users\Michael\Documents\Learning\C-\10 Working with Dates and Times\obj\Debug\net7.0\10 Working with Dates and Times.genruntimeconfig.cache
+C:\Users\Michael\Documents\Learning\C-\10 Working with Dates and Times\obj\Debug\net7.0\ref\10 Working with Dates and Times.dll
