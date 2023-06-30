@@ -1,0 +1,15 @@
+C:\Users\Michael\Documents\Learning\C-\11 Understanding Classes\bin\Debug\net7.0\11 Understanding Classes.exe
+C:\Users\Michael\Documents\Learning\C-\11 Understanding Classes\bin\Debug\net7.0\11 Understanding Classes.deps.json
+C:\Users\Michael\Documents\Learning\C-\11 Understanding Classes\bin\Debug\net7.0\11 Understanding Classes.runtimeconfig.json
+C:\Users\Michael\Documents\Learning\C-\11 Understanding Classes\bin\Debug\net7.0\11 Understanding Classes.dll
+C:\Users\Michael\Documents\Learning\C-\11 Understanding Classes\bin\Debug\net7.0\11 Understanding Classes.pdb
+C:\Users\Michael\Documents\Learning\C-\11 Understanding Classes\obj\Debug\net7.0\11 Understanding Classes.csproj.AssemblyReference.cache
+C:\Users\Michael\Documents\Learning\C-\11 Understanding Classes\obj\Debug\net7.0\11 Understanding Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\Documents\Learning\C-\11 Understanding Classes\obj\Debug\net7.0\11 Understanding Classes.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\Learning\C-\11 Understanding Classes\obj\Debug\net7.0\11 Understanding Classes.AssemblyInfo.cs
+C:\Users\Michael\Documents\Learning\C-\11 Understanding Classes\obj\Debug\net7.0\11 Understanding Classes.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Learning\C-\11 Understanding Classes\obj\Debug\net7.0\11 Understanding Classes.dll
+C:\Users\Michael\Documents\Learning\C-\11 Understanding Classes\obj\Debug\net7.0\refint\11 Understanding Classes.dll
+C:\Users\Michael\Documents\Learning\C-\11 Understanding Classes\obj\Debug\net7.0\11 Understanding Classes.pdb
+C:\Users\Michael\Documents\Learning\C-\11 Understanding Classes\obj\Debug\net7.0\11 Understanding Classes.genruntimeconfig.cache
+C:\Users\Michael\Documents\Learning\C-\11 Understanding Classes\obj\Debug\net7.0\ref\11 Understanding Classes.dll
