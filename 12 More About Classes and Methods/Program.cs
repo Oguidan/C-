@@ -44,6 +44,8 @@ namespace ObjectLifeTime
 
         public Car()
         {
+            // You could load from a configuration file,
+            // a database, etc.
             Make = "Nissan";
         }
     }
