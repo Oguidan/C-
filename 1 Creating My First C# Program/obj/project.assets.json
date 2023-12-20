@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Michael\\.nuget\\packages\\": {}
+    "/home/archangelmichael/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Michael\\Documents\\Learning\\C-\\1 Creating My First C# Program\\1 Creating My First C# Program.csproj",
+      "projectUniqueName": "/home/archangelmichael/Documents/Projects/C-/1 Creating My First C# Program/1 Creating My First C# Program.csproj",
       "projectName": "1 Creating My First C# Program",
-      "projectPath": "C:\\Users\\Michael\\Documents\\Learning\\C-\\1 Creating My First C# Program\\1 Creating My First C# Program.csproj",
-      "packagesPath": "C:\\Users\\Michael\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Michael\\Documents\\Learning\\C-\\1 Creating My First C# Program\\obj\\",
+      "projectPath": "/home/archangelmichael/Documents/Projects/C-/1 Creating My First C# Program/1 Creating My First C# Program.csproj",
+      "packagesPath": "/home/archangelmichael/.nuget/packages/",
+      "outputPath": "/home/archangelmichael/Documents/Projects/C-/1 Creating My First C# Program/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Michael\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/archangelmichael/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\Michael\\AppData\\Roaming\\.dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
       }
     }
   }

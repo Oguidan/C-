@@ -1,0 +1,15 @@
+/home/archangelmichael/Documents/Projects/C-/12 More About Classes and Methods/obj/Debug/net7.0/12 More About Classes and Methods.csproj.AssemblyReference.cache
+/home/archangelmichael/Documents/Projects/C-/12 More About Classes and Methods/obj/Debug/net7.0/12 More About Classes and Methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/archangelmichael/Documents/Projects/C-/12 More About Classes and Methods/obj/Debug/net7.0/12 More About Classes and Methods.AssemblyInfoInputs.cache
+/home/archangelmichael/Documents/Projects/C-/12 More About Classes and Methods/obj/Debug/net7.0/12 More About Classes and Methods.AssemblyInfo.cs
+/home/archangelmichael/Documents/Projects/C-/12 More About Classes and Methods/obj/Debug/net7.0/12 More About Classes and Methods.csproj.CoreCompileInputs.cache
+/home/archangelmichael/Documents/Projects/C-/12 More About Classes and Methods/bin/Debug/net7.0/12 More About Classes and Methods
+/home/archangelmichael/Documents/Projects/C-/12 More About Classes and Methods/bin/Debug/net7.0/12 More About Classes and Methods.deps.json
+/home/archangelmichael/Documents/Projects/C-/12 More About Classes and Methods/bin/Debug/net7.0/12 More About Classes and Methods.runtimeconfig.json
+/home/archangelmichael/Documents/Projects/C-/12 More About Classes and Methods/bin/Debug/net7.0/12 More About Classes and Methods.dll
+/home/archangelmichael/Documents/Projects/C-/12 More About Classes and Methods/bin/Debug/net7.0/12 More About Classes and Methods.pdb
+/home/archangelmichael/Documents/Projects/C-/12 More About Classes and Methods/obj/Debug/net7.0/12 More About Classes and Methods.dll
+/home/archangelmichael/Documents/Projects/C-/12 More About Classes and Methods/obj/Debug/net7.0/refint/12 More About Classes and Methods.dll
+/home/archangelmichael/Documents/Projects/C-/12 More About Classes and Methods/obj/Debug/net7.0/12 More About Classes and Methods.pdb
+/home/archangelmichael/Documents/Projects/C-/12 More About Classes and Methods/obj/Debug/net7.0/12 More About Classes and Methods.genruntimeconfig.cache
+/home/archangelmichael/Documents/Projects/C-/12 More About Classes and Methods/obj/Debug/net7.0/ref/12 More About Classes and Methods.dll
